@@ -2,7 +2,7 @@
 
 Welcome to this challenge.
 
-This project stil isnt't finished
+This project still isnt't finished
 
 Just Run as JavaApllication
 
