@@ -1,6 +1,5 @@
 # CreditShelf Challenge
 
-Java Tutorial
 Welcome to this challenge.
 
 This project stil isnt't finished
